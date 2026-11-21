@@ -1,0 +1,89 @@
+[
+  {
+    "repo": "NucleoLink-Servidor",
+    "title": "Núcleo Link",
+    "eyebrow": "01 / COMUNICAÇÃO · PYTHON",
+    "category": "comunicacao",
+    "description": "Um servidor de mensagens que conecta Cardputer V1/ADV e navegadores. Reúne interface web, autenticação de dispositivos e aprovação de pareamento em um projeto escrito em Python.",
+    "tags": [
+      "Python",
+      "SQLite",
+      "ESP32-S3",
+      "Web"
+    ],
+    "visual": "network",
+    "featured": true,
+    "links": [
+      {
+        "label": "Ver código no GitHub",
+        "url": "https://github.com/claudiorafael1/NucleoLink-Servidor"
+      }
+    ],
+    "note": "O relay não utiliza criptografia ponta a ponta. Esta limitação está documentada."
+  },
+  {
+    "repo": "Cardputer-IA-pt-br",
+    "title": "Eliza Neural OS",
+    "eyebrow": "02 / IA LOCAL · ESP32-S3",
+    "category": "ia",
+    "description": "Um assistente conversacional em português que roda no Cardputer sem depender da nuvem. Usa regras, personas e conteúdo no microSD para trabalhar dentro dos limites do dispositivo.",
+    "tags": [
+      "C++",
+      "Arduino",
+      "ESP32-S3",
+      "microSD"
+    ],
+    "visual": "ai",
+    "featured": true,
+    "links": [
+      {
+        "label": "Ver código no GitHub",
+        "url": "https://github.com/claudiorafael1/Cardputer-IA-pt-br"
+      }
+    ],
+    "note": "É um assistente baseado em regras, não um grande modelo de linguagem."
+  },
+  {
+    "repo": "OrganizadorPessoal",
+    "title": "Organizador Pessoal",
+    "eyebrow": "03 / JAVA · SPRING BOOT",
+    "category": "backend",
+    "description": "Uma API de organização pessoal desenvolvida com Spring Boot e operações CRUD. O foco do projeto é estruturar endpoints e trabalhar com dados no backend.",
+    "tags": [
+      "Java",
+      "Spring Boot",
+      "CRUD"
+    ],
+    "visual": "stack",
+    "featured": true,
+    "links": [
+      {
+        "label": "Ver código no GitHub",
+        "url": "https://github.com/claudiorafael1/OrganizadorPessoal"
+      }
+    ],
+    "note": ""
+  },
+  {
+    "repo": "webapicomconexaomysql",
+    "title": "API Java + MySQL",
+    "eyebrow": "04 / BACKEND · BANCO DE DADOS",
+    "category": "backend",
+    "description": "Um projeto de API com Java, Spring Boot e MySQL. Explora a integração entre serviço e banco de dados, do recebimento de requisições à persistência das informações.",
+    "tags": [
+      "Java",
+      "Spring Boot",
+      "MySQL",
+      "REST"
+    ],
+    "visual": "data",
+    "featured": true,
+    "links": [
+      {
+        "label": "Ver código no GitHub",
+        "url": "https://github.com/claudiorafael1/webapicomconexaomysql"
+      }
+    ],
+    "note": ""
+  }
+]
